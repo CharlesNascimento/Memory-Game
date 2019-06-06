@@ -4,3 +4,7 @@ Memory Game was my first game created with programming. It was made with the Pas
 ![Main Menu](https://portfolium1.cloudimg.io/fit/960x540/c000000/https://cdn.portfolium.com/ugcs3%2Fentry%2FyIQhph1T9KWb4I60QB2A_Screenshot1.png)
 
 If you want to know more about it, you can check it out in my [portfolio](https://portfolium.com/entry/memory-game-2).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
